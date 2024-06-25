@@ -2,7 +2,8 @@
 #include <chrono>
 #include <thread>
 #include"TempSensorDriverFactory/include/TempSensorDriverFactory.hpp"
-using namespace std;
+
+#include"pch.h"
 
 int main()
 {
