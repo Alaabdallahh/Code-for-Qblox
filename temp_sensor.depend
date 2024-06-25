@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1719345833 source:c:\users\ahmed\desktop\assigenemnts\temp_sensor\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	"TempSensorDriverFactory/include/TempSensorDriverFactory.hpp"
+
+1719352629 source:c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriver_1\library\tempsensordriver1.cpp
+	"../../TempSensorDriver_1/include/TempSensorDriver1.hpp"
+
+1719345169 source:c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriver_2\library\tempsensordriver2.cpp
+	"../../TempSensorDriver_2/include/TempSensorDriver2.hpp"
+
+1719345170 c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriverinterface\include\itempsensordriver.hpp
+	<iostream>
+	<memory>
+
+1719352629 c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriver_1\include\tempsensordriver1.hpp
+	"../../TempSensorDriverInterface/include/ITempSensorDriver.hpp"
+
+1719345861 c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriver_2\include\tempsensordriver2.hpp
+	"../../TempSensorDriverInterface/include/ITempSensorDriver.hpp"
+
+1719345561 source:c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriverfactory\library\tempsensordriverfactory.cpp
+	"../../TempSensorDriver_1/include/TempSensorDriver1.hpp"
+	"../../TempSensorDriver_2/include/TempSensorDriver2.hpp"
+	"../../TempSensorDriverFactory/include/TempSensorDriverFactory.hpp"
+
+1719344690 c:\users\ahmed\desktop\assigenemnts\temp_sensor\tempsensordriverfactory\include\tempsensordriverfactory.hpp
+	"../../TempSensorDriverInterface/include/ITempSensorDriver.hpp"
+	<string>
+
